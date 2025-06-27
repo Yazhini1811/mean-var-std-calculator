@@ -1,4 +1,5 @@
-# mean-var-std-calculatorimport numpy as np
+# mean-var-std-calculator
+import numpy as np
 
 def calculate(input_list):
     # Check if input list contains exactly 9 numbers
